@@ -1,7 +1,7 @@
 ># `InstaMart` Web-Store🛒
 
 
-## 🪶 Tech Satck : `☀ NextJS` || `☀ Tailwind` ||   `☀ Typescript`
+### 🪶 Tech Satck : `☀ NextJS` || `☀ Tailwind` ||   `☀ Typescript`
 
 - Simple, Beautiful E-commerce Landing Page
 - Fully Responsive
